@@ -5,6 +5,7 @@
                                                          
                                                 
 -- We are working with a dataset that contains two main tables:
+
 --1.Customer - Contains customer details such as CustomerId, FirstName, and City.
 --2.Invoice - Contains invoice details including InvoiceId, CustomerId, and Total of each invoice.
 
